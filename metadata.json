@@ -1,0 +1,6 @@
+{
+  "name": "مدرسة السلام - أيت أورير",
+  "description": "موقع مدرسة السلام بأيت أورير، إقليم الحوز، جهة مراكش آسفي. مؤسسة تعليمية رائدة لبناء جيل متعلم ومثقف لمستقبل أفضل.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
